@@ -1,6 +1,7 @@
 # TO-DO List for work:
 - Yolov11
 - Yolov26
+- Dataseti nereden aldigina dair link ekle buraya
 
 # TO-DO List for publication:
 - Faster R-CNN
